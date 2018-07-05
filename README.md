@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 channelId="--CATEGORIA--" tvg-logo="http://www.vilallongadelcamp.cat/wp-content/uploads/2018/01/star_wars.jpg"
+aspect-ratio="16:9" , Star Wars: Os Ultimos Jedi (2018) (Acao, Aventura, Fantasia) IMDb:7.5
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:CEB22CADD8DD6E0C74E22409E792C68744BC1B7C&amp
 
 #EXTINF:-1 channelId="--CATEGORIA--" tvg-logo="http://br.lookbook.blog/wp-content/uploads/sites/3/2017/12/Cinema-Filme-Extraoridinario-04-1.jpg"
 aspect-ratio="16:9" , Extraordinario (2017) (Drama) IMDb:8.0
